@@ -27,7 +27,16 @@
 .App-link {
   color: #61dafb;
 }
-
+.fa-rands{
+  color: yellow;
+  margin: 0 10px;
+  font-size: 1rem;
+}
+a{
+  color: #61dafb;
+  text-decoration: none;
+  margin: 0 10px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
